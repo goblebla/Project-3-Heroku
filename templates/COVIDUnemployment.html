@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<meta charset="utf-8">
+
+<head>
+    <meta charset="UTF-8">
+    <title>COVID-19 Impact on Unemployment</title>
+    <!-- <link rel="stylesheet" href="css"> -->
+    <style>
+      .axisBottom .tick text{
+        font-size: 6px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Create a div where the graph will take place -->
+    <!-- Initialize a select button -->
+    <select id="selectButton" onchange="update(this.value)"></select>
+    <div id="my_dataviz"></div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="../static/js/app.js"></script>
+  </body>
+</html>

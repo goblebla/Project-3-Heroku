@@ -1,0 +1,18 @@
+
+h1 {
+    width: 500px;
+    margin: auto;
+    font-family: verdana;
+    border-style: double
+}
+
+p {
+    font-family: verdana;
+    border-style: double
+}
+
+h2 {
+    font-family: verdana;
+    background-color: lightpink;
+    border-style: double
+}
