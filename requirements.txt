@@ -4,7 +4,7 @@
 # ca-certificates=2020.6.24=0
 # certifi=2020.6.20=py37_0
 # openssl=1.1.1g=he774522_0
-pip=20.1.1=py37_1
+# pip=20.1.1=py37_1
 python=3.7.7=h81c818b_4
 setuptools=49.2.0=py37_0
 sqlite=3.32.3=h2a8f88b_0
