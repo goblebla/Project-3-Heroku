@@ -1,7 +1,7 @@
 # import necessary libraries
 # from models import create_classes
 import os
-import numpy as np
+# import numpy as np
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
